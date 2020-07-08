@@ -1,0 +1,2 @@
+# obs-automation
+Automate OBS
